@@ -1,5 +1,4 @@
 # Tic-Tac-Toe!
-![GitHub](https://img.shields.io/github/license/oromarrezende/tic-tac-toe)
 
 
 Tic-Tac-Toe! is a simple C99 command-line implementation of the famous paper-and-pencil game
